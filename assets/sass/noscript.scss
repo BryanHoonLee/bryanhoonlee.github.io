@@ -42,11 +42,11 @@
 /* Main */
 
 	#main {
-		background: none;
+		background-image: url("images/me.jpg");
 		box-shadow: none;
 
 		> .panel {
-			background: #ffffff;
+			background-image: url("images/me.jpg");
 			margin-bottom: 2em;
 
 			&:last-child {
