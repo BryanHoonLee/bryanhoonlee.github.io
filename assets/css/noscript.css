@@ -32,7 +32,7 @@
 /* Main */
 
 	#main {
-		background-image: url("images/me.jpg");
+		background: none;
 		box-shadow: none;
 	}
 
