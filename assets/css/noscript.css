@@ -37,7 +37,7 @@
 	}
 
 		#main > .panel {
-			background: #ffffff;
+			background-image: url("images/me.jpg");
 			margin-bottom: 2em;
 		}
 
