@@ -32,12 +32,12 @@
 /* Main */
 
 	#main {
-		background: none;
+		background-image: url("images/me.jpg");
 		box-shadow: none;
 	}
 
 		#main > .panel {
-			background-image: url("images/me.jpg");
+			background: #ffffff;
 			margin-bottom: 2em;
 		}
 
